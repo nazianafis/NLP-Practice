@@ -9,3 +9,6 @@
 | 5. | Lesk-based WSD | [Lab 4.0]() |
 | 6. | Continuing working with words as features, with focus on building language models | [Lab 5.0](https://github.com/nazianafis/Natural-Language-Processing/blob/main/nlp-05.ipynb) |
 | 7. | Word Embeddings with word2vec and other methods | [Lab 6.0](https://github.com/nazianafis/Natural-Language-Processing/blob/main/nlp-06.ipynb) |
+| 8. | | [Lab 7.0]() |
+| 9. | Named Entity Recognition using Language Models: DistilBERT | [Lab 8.0](https://github.com/nazianafis/Natural-Language-Processing/blob/main/nlp-08-01.ipynb) |
+| 10. | Named Entity Recognition using Language Models: XLM-R | [Lab 8.1](https://github.com/nazianafis/Natural-Language-Processing/blob/main/nlp-08-02.ipynb) | 
