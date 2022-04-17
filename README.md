@@ -1,4 +1,4 @@
-# NLP-Practice
+# NLP-Basics
 
 | S.no. | Topics Covered  | Notebook |
 --------|-----------------|----------|
